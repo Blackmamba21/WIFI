@@ -74,7 +74,7 @@ const TodoList = () => {
       }}>
       <View
         style={{
-          backgroundColor: 'white',
+          backgroundColor: 'purple',
           flexDirection: 'row',
           margin: 5,
           borderColor: 'grey',
